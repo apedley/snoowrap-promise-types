@@ -1,0 +1,22 @@
+{
+  "name": "snoowrap-promise-types",
+  "version": "1.14.3",
+  "description": "TypeScript definitions for snoowrap but using promises instead of proxies",
+  "license": "MIT",
+  "contributors": [{
+    "name": "apedley@gmail.com",
+    "url": "https://github.com/apedley",
+    "githubUsername": "apedley"
+  }],
+  "private": true,
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apedley/snoowrap-promise-types"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/request": "*",
+    "@types/node": "*"
+  }
+}
